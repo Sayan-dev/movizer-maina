@@ -1,0 +1,24 @@
+{
+  "statusCode": 0,
+  "message": "success",
+  "masterData": [
+    {
+      "codeDesc": "Voter Card",
+      "codeType": "addressProof",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "Aadhar card",
+      "codeType": "addressProof",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "Social Security Code",
+      "codeType": "addressProof",
+      "createdBy": null,
+      "parentID": null
+    }
+  ]
+}

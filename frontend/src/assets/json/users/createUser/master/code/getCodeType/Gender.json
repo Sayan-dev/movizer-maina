@@ -1,0 +1,18 @@
+{
+  "statusCode": 0,
+  "message": "success",
+  "masterData": [
+    {
+      "codeDesc": "Male",
+      "codeType": "Gender",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "Female",
+      "codeType": "Gender",
+      "createdBy": null,
+      "parentID": null
+    }
+  ]
+}

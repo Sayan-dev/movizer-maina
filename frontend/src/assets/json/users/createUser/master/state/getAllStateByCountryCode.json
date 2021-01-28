@@ -1,0 +1,13 @@
+{
+  "statusCode": 0,
+  "message": "success",
+  "masterData": [
+    {
+      "stateName": "West Bengal",
+      "stateCode": "ST0004",
+      "countryCode": "CO0001"
+    },
+    { "stateName": "Bihar", "stateCode": "ST0005", "countryCode": "CO0001" },
+    { "stateName": "Asam", "stateCode": "ST0006", "countryCode": "CO0001" }
+  ]
+}

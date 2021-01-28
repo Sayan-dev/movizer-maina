@@ -1,0 +1,105 @@
+{
+    "menus": [{
+            "id": 1,
+            "name": "Administration (HR)",
+            "label": "Administration (HR)",
+            "children": [{
+                    "id": 41,
+                    "label": "Organization Details",
+                    "path": "/employee-details"
+                },
+                {
+                    "id": 42,
+                    "label": "User Details",
+                    "path": "/",
+                    "children": [{
+                        "id": 421,
+                        "label": "User Child",
+                        "path": "/employee-details"
+                    }]
+                },
+                {
+                    "id": 43,
+                    "label": "Agent Details",
+                    "path": "/agent-details"
+                },
+                {
+                    "id": 44,
+                    "label": "Menu Details",
+                    "path": "/menu-create"
+                },
+                {
+                    "id": 45,
+                    "label": "Role Details",
+                    "path": "/role-create"
+                },
+                {
+                    "id": 46,
+                    "label": "Access Rights",
+                    "path": "/accessDetails"
+                },
+                {
+                    "id": 47,
+                    "label": "Password Rule",
+                    "path": "/passRules"
+                },
+                {
+                    "id": 48,
+                    "label": "Heirarchy",
+                    "path": "/heirarchy"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Organisation (HR)",
+            "label": "Organisation (HR)",
+            "children": [{
+                    "id": 442,
+                    "label": "Organization Details",
+                    "path": "/employee-details"
+                },
+                {
+                    "id": 424,
+                    "label": "User Details",
+                    "path": "/",
+                    "children": [{
+                        "id": 251,
+                        "label": "User Child",
+                        "path": "/employee-details"
+                    }]
+                },
+                {
+                    "id": 443,
+                    "label": "Agent Details",
+                    "path": "/agent-details"
+                },
+                {
+                    "id": 444,
+                    "label": "Menu Details",
+                    "path": "/menu-create"
+                },
+                {
+                    "id": 445,
+                    "label": "Role Details",
+                    "path": "/role-create"
+                },
+                {
+                    "id": 446,
+                    "label": "Access Rights",
+                    "path": "/accessDetails"
+                },
+                {
+                    "id": 447,
+                    "label": "Password Rule",
+                    "path": "/passRules"
+                },
+                {
+                    "id": 448,
+                    "label": "Heirarchy",
+                    "path": "/heirarchy"
+                }
+            ]
+        }
+    ]
+}

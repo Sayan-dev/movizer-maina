@@ -1,0 +1,30 @@
+{
+  "statusCode": 0,
+  "message": "success",
+  "masterData": [
+    {
+      "codeDesc": "A+",
+      "codeType": "Blood group",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "B+",
+      "codeType": "Blood group",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "AB+",
+      "codeType": "Blood group",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "O+",
+      "codeType": "Blood group",
+      "createdBy": null,
+      "parentID": null
+    }
+  ]
+}

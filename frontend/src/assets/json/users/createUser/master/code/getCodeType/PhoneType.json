@@ -1,0 +1,30 @@
+{
+  "statusCode": 0,
+  "message": "success",
+  "masterData": [
+    {
+      "codeDesc": "Mobile",
+      "codeType": "PhoneType",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "Home",
+      "codeType": "PhoneType",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "Work",
+      "codeType": "PhoneType",
+      "createdBy": null,
+      "parentID": null
+    },
+    {
+      "codeDesc": "Main",
+      "codeType": "PhoneType",
+      "createdBy": null,
+      "parentID": null
+    }
+  ]
+}

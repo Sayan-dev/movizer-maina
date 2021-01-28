@@ -1,0 +1,62 @@
+{
+  "statusCode": 0,
+  "message": "success",
+  "masterData": [
+    {
+      "organizationCode": null,
+      "positionName": "CEO",
+      "positionCode": "PO0545",
+      "parentPositionCode": null,
+      "nodes": null
+    },
+    {
+      "organizationCode": null,
+      "positionName": "GSM",
+      "positionCode": "PO0546",
+      "parentPositionCode": null,
+      "nodes": null
+    },
+    {
+      "organizationCode": null,
+      "positionName": "Director",
+      "positionCode": "PO0551",
+      "parentPositionCode": null,
+      "nodes": null
+    },
+    {
+      "organizationCode": null,
+      "positionName": "GM",
+      "positionCode": "PO0547",
+      "parentPositionCode": null,
+      "nodes": null
+    },
+    {
+      "organizationCode": null,
+      "positionName": "Employee",
+      "positionCode": "PO0549",
+      "parentPositionCode": null,
+      "nodes": null
+    },
+    {
+      "organizationCode": null,
+      "positionName": "Manager",
+      "positionCode": "PO0548",
+      "parentPositionCode": null,
+      "nodes": null
+    },
+    {
+      "organizationCode": null,
+      "positionName": "Team Supervisor",
+      "positionCode": "PO0555",
+      "parentPositionCode": null,
+      "nodes": null
+    },
+    {
+      "organizationCode": null,
+      "positionName": "Team lead",
+      "positionCode": "PO0550",
+      "parentPositionCode": null,
+      "nodes": null
+    }
+  ]
+}

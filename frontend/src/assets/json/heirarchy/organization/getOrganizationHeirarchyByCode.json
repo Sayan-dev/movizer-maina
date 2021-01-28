@@ -1,0 +1,72 @@
+{
+  "statusCode": 0,
+  "message": "success",
+  "masterData": {
+    "organizationCode": "OR0289",
+    "positionName": "CEO",
+    "positionCode": "PO0545",
+    "parentPositionCode": "-1",
+    "employeeCount": 2,
+    "nodes": [
+      {
+        "organizationCode": "OR0289",
+        "positionName": "GSM",
+        "positionCode": "PO0546",
+        "parentPositionCode": "PO0545",
+        "employeeCount": 0,
+        "nodes": [
+          {
+            "organizationCode": "OR0289",
+            "positionName": "Employee",
+            "positionCode": "PO0549",
+            "parentPositionCode": "PO0546",
+            "employeeCount": 1,
+            "nodes": []
+          }
+        ]
+      },
+      {
+        "organizationCode": "OR0289",
+        "positionName": "Director",
+        "positionCode": "PO0551",
+        "parentPositionCode": "PO0545",
+        "employeeCount": 1,
+        "nodes": []
+      },
+      {
+        "organizationCode": "OR0289",
+        "positionName": "GM",
+        "positionCode": "PO0547",
+        "parentPositionCode": "PO0545",
+        "employeeCount": 0,
+        "nodes": [
+          {
+            "organizationCode": "OR0289",
+            "positionName": "Manager",
+            "positionCode": "PO0548",
+            "parentPositionCode": "PO0547",
+            "employeeCount": 0,
+            "nodes": [
+              {
+                "organizationCode": "OR0289",
+                "positionName": "Team Supervisor",
+                "positionCode": "PO0555",
+                "parentPositionCode": "PO0548",
+                "employeeCount": 0,
+                "nodes": []
+              },
+              {
+                "organizationCode": "OR0289",
+                "positionName": "Team lead",
+                "positionCode": "PO0550",
+                "parentPositionCode": "PO0548",
+                "employeeCount": 0,
+                "nodes": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
